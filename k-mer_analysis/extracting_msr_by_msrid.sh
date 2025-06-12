@@ -9,17 +9,6 @@
 #SBATCH --mail-user=r12621120@ntu.edu.tw   
 #SBATCH --mail-type=END
 
-#!/usr/bin/bash
-#SBATCH -A MST109178                        
-#SBATCH -J extracting_msr_by_msrid      
-#SBATCH -p ngs186G                           
-#SBATCH -c 28                            
-#SBATCH --mem=186g                          
-#SBATCH -o %j.log                           
-#SBATCH -e %j.log                           
-#SBATCH --mail-user=r12621120@ntu.edu.tw   
-#SBATCH --mail-type=END
-
 #################### 路徑設定 ####################
 READ_DIR="/work/u8356556/AG_kmer/Clean_read"
 ID_DIR="/work/u8356556/AG_kmer/extracted_read_ids"
