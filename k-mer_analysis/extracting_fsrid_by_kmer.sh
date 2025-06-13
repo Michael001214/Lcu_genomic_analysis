@@ -11,7 +11,7 @@
 
 #################### 路徑設定 ####################
 READ_DIR="/work/u8356556/AG_kmer/Clean_read"
-KMER_FILE="/work/u8356556/AG_kmer/f_specific_kmer.txt"
+KMER_FILE="/work/u8356556/AG_kmer/f_specific_kmer_10.txt"
 OUTPATH="/work/u8356556/AG_kmer/extracted_read_ids"
 
 #################### 樣本列表 ####################
