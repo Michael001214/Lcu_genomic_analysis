@@ -1,4 +1,4 @@
-# Lcu_genomic_analysis
+# *k*-mer analysis
 This folder contains all scripts used for identifying sex-specific k-mers in *Litsea cubeba*.  
 Each script is listed below with its corresponding function:
 
